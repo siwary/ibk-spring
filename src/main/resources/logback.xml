@@ -13,7 +13,4 @@
   <root level="INFO">
     <appender-ref ref="STDOUT" />
   </root>
-  <root level="WARN">
-        <appender-ref ref="FILE"/>
-  </root>
 </configuration>
